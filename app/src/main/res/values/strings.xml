@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name"> Exemplo3androidx </string>
+    <string name="title_activity_cadastro"> Tela de cadastro </string>
+</resources>
